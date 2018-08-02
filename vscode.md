@@ -7,4 +7,4 @@
 * Node debugging
 * Rich plug-in eco-system
 
-*   VS Code can be downloaded [here](https://code.visualstudio.com/?target=_blank)
+*   VS Code can be downloaded [here](https://code.visualstudio.com)
