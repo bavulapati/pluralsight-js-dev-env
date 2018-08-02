@@ -4,3 +4,4 @@
 * Integrated continuous integration
 * Integrated release management
 * Merge requests
+* Git can be downloaded [here](https://git-scm.com/)
