@@ -9,6 +9,8 @@
 *       $ npm install -D nsp 
 * preffered place for nsp check is at npm start. This slows down the starting of application but can avoid a lot of rework
 *       $ nsp check
+*   $npm audit should be used instead of nsp check as nsp is shutting down as of sep 30 2018
+*       $ npm audit
 * node uses package.json for understanding the dependencies and metadata which can be generated using 
 *       npm init
 * electron can be installed using
