@@ -67,3 +67,12 @@
     *   target platform, package, architecture, etc.,
     *   Create npm script for packaging project
     *       "pack": "build -l"
+*   **Logger**
+    *   Install electron-log as dependency
+    *       $ npm install electron-log
+    *   Import electron-log as log
+    *       import log from "electron-log";
+    *   Configure logger to use info level 
+    *       log.transports.file.level = "info";
+    *   Max file size to be 128 KB
+    *       log.transports.file.maxSize = 128 * 1024;

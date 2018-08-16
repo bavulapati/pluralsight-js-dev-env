@@ -1,3 +1,4 @@
+>[Home](./README.md)
 # Tools and Decisions
 1. _Version control system_ -   [**Git & GitLab**](./vcm.md)
 2. _Editor_ -   [**VS Code**](./vscode.md)
@@ -9,5 +10,5 @@
 8. _Testing_    -   Can use [**Spectron**](./testing.md) but not using it
 9. _Building_   -   [**Electron-builder**](./building.md)
 10. _Deploy_    -   Build will be released
-11. _Logging_   -   **Winston** will be used
+11. _Logging_   -   [**electron-log**](./logging.md) will be used
 12. _Setup Environment_ -   [**Procedure**](./setup-env.md)

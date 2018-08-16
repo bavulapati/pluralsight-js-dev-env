@@ -4,3 +4,4 @@
 *   Enhanced autocomplete
 *   Safer refactoring
 *   Additional non-standard features
+*       $ npm run build-ts
